@@ -1,4 +1,4 @@
-# Transformer Summarizer (Fine-Tuning + HugginFace + Tutorial)
+# Transformer Summarizer (Fine-Tuning + HuggingFace + Tutorial)
 ## Overview
 This project uses the T5 small model 🧠 for summarization. All the detailed instructions required for the following steps are included in the accompanying Jupyter Notebook 📓:
 
